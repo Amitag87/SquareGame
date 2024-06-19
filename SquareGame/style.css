@@ -1,0 +1,28 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    
+}
+#main{
+    height: 150%;
+    width: 150%;
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+.shape{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    font-family: 'Montserrat';
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:  2px;
+    margin-left: 2px;
+}
+.rect{
+    display: flex ;
+}
+
